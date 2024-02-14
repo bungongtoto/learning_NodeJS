@@ -1,16 +1,20 @@
 {
   "dependencies": {
     "date-fns": "^3.3.1",
-    "nodemon": "^3.0.3"
+    "uuid": "^9.0.1"
   },
   "name": "03tut",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }

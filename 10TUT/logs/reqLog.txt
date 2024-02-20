@@ -34,7 +34,12 @@
 20240220	06:48:20	a3f6ce02-9a77-45b8-8205-af17d8d7e166	GET	undefined	/employees
 20240220	08:23:03	0652edaf-9cad-4086-a52f-6dcc4f07bfa8	POST	undefined	/employees
 20240220	08:23:51	cf1e89fd-19dc-4836-8a2c-13e11421197b	GET	undefined	/employees/3
-20240220	11:05:20	e56429dc-de41-48d9-a865-c0ca97c75a17	GET	undefined	/css/style.css
-20240220	11:05:20	6bde5e04-9c33-4be4-a873-fa710a969367	GET	undefined	/img/img1.jpg
-20240220	11:05:25	a564cf97-3f6d-447d-b3a1-06eae279ddf9	GET	undefined	/
-20240220	11:05:25	7ae6a321-4444-4a03-8a43-7c8e496bb11d	GET	undefined	/css/style.css
+20240220	11:05:28	a60f9e3c-3547-479b-a11a-1b8a219bbb75	GET	undefined	/
+20240220	11:05:28	55da2ed0-e6e0-41f3-a768-f2211924dc16	GET	undefined	/css/style.css
+20240220	11:05:28	ae205693-b256-4586-aa69-bd312669f844	GET	undefined	/favicon.ico
+20240220	11:11:12	a85ade21-912e-4162-b5cd-5081bfec132f	POST	undefined	/register
+20240220	11:12:05	3276f64c-f84d-4f10-9cf9-f37ff4ee88f4	POST	undefined	/register
+20240220	11:12:52	091defc1-62ec-4b31-b19a-3714c9b3c7e7	POST	undefined	/register
+20240220	12:11:35	b5703b81-0e88-4a5a-8b6b-00199e7a8f0f	POST	undefined	/auth
+20240220	12:12:19	f9fe5d44-cbb3-40f4-ad8b-d940c706d79d	POST	undefined	/auth
+20240220	12:13:36	5c718044-15a9-48a7-a58b-9b1f85e5ab8a	POST	undefined	/auth

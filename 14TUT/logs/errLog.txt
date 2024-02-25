@@ -1,0 +1,3 @@
+20240219	10:28:19	ee025eb2-d3ff-4aa3-92fb-517239118a31	Error: Not allowed by CORS
+20240219	10:30:21	322fdbd6-63a0-4c34-8a28-7b57232480fc	Error: Not allowed by CORS
+20240219	10:30:21	f9eafa65-6038-4ae8-809a-9a587f70d11d	Error: Not allowed by CORS
